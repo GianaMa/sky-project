@@ -1,0 +1,4 @@
+-e ephem
+plotly
+numpy
+streamlit
